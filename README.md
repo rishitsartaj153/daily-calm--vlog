@@ -43,6 +43,7 @@
 
   <p>Even just 10 minutes a day can make a big difference. Regular practice trains your mind to stay calm in stressful situations and helps you make better decisions.</p>
 
-  <p class="author">Written by Rishit Virdi – Founder of Daily Calm Vlog 🧘</p>
+  <p class="author">Written by Rishit Virdi – <img src="rishit.png" alt="Rishit's photo">
+ of Daily Calm Vlog 🧘</p>
 </body>
 </html>
